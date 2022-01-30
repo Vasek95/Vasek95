@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vasek95
 - 👀 I’m interested in Machine Learning, Music Signal Processing
 - 🌱 I’m currently learning https://www.coursera.org/ Machine Learning Course
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me 604971344@seznam.cz
 
 <!---
